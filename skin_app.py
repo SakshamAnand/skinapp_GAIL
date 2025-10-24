@@ -115,4 +115,5 @@ st.sidebar.warning(
 
 # --- Footer ---
 st.write("---")
-st.write("Developed under the guidance of Dr. Rama Parvathy L by Saksham Anand and Vasu Arya at VIT Chennai, 2025.")
+
+st.write("Developed under the guidance of Dr. Lakshmi Harika Palivela by Saksham Anand and Vasu Arya at VIT Chennai, 2025.")
