@@ -108,8 +108,7 @@ st.sidebar.write(
 )
 st.sidebar.warning(
     """
-    **Disclaimer:** This is a demonstration app. The model is pre-trained on ImageNet and not fine-tuned on the specific skin disease dataset,
-    so predictions are not accurate. Consult a healthcare professional for medical advice.
+    **Disclaimer:** This is a demonstration app. Consult a healthcare professional for medical advice and to confirm your case.
     """
 )
 
@@ -117,3 +116,4 @@ st.sidebar.warning(
 st.write("---")
 
 st.write("Developed under the guidance of Dr. Lakshmi Harika Palivela by Saksham Anand and Vasu Arya at VIT Chennai, 2025.")
+
